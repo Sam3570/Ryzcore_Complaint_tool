@@ -9,7 +9,7 @@ document.getElementById("supportForm").addEventListener("submit", function (even
 
     // Replace with your company's WhatsApp number
     // India example: +91 9876543210 → 919876543210
-    const companyWhatsAppNumber = "9198262 00580";
+    const companyWhatsAppNumber = "919826200580";
 
     const message = `Hello Support Team,
 
